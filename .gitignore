@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+fraud_0.csv
+fraud_1.csv
+fraud_2.csv
+fraud_3.csv
+train_transaction.csv
 __pycache__/
 *.py[cod]
 *$py.class
