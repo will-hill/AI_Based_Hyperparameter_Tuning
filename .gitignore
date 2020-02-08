@@ -3,7 +3,7 @@ fraud_0.csv
 fraud_1.csv
 fraud_2.csv
 fraud_3.csv
-train_transaction.csv
+data/train_transaction.csv
 __pycache__/
 *.py[cod]
 *$py.class
@@ -134,3 +134,6 @@ dmypy.json
 .pyre/
 .DS_Store
 fraud_all.csv
+ieee-fraud-detection.zip
+.idea
+~$AI_Tuning.pptx
