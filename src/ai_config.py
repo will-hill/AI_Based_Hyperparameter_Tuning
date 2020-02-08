@@ -1,1 +1,1 @@
-DB_CONN = 'postgresql+pg8000://admin@localhost:5433/optuna'X_TRAIN_CSV = '../data/train_transaction.csv'
+DB_CONN = 'postgresql+pg8000://admin@localhost:5433/optuna'DATA_PATH = '../data'N_FOLDS = 5IDX_COL = 'TransactionID'
