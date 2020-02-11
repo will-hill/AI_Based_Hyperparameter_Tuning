@@ -1,1 +1,1 @@
-DB_CONN = 'postgresql+pg8000://admin@localhost:5433/optuna'DATA_PATH = '../data'N_FOLDS = 5IDX_COL = 'TransactionID'NUMERICS = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']NUM_IMPUTE_TYPE = 'MEDIAN' # MEAN, etcCAT_IMPUTE_TYPE = 'MODE'MAX_N_OHE = 15
+NUMERICS = ['int16', 'int32', 'int64', 'float16', 'float32', 'float64']DB_CONN = 'postgresql+pg8000://admin@localhost:5433/optuna'DATA_PATH = '../data'N_FOLDS = 5IDX_COL = 'TransactionID'Y_COL = 'isfraud'NUM_IMPUTE_TYPE = 'MEDIAN'CAT_IMPUTE_TYPE = 'MODE'MAX_N_OHE = 15
